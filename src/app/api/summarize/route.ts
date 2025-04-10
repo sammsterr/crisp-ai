@@ -74,7 +74,7 @@ export async function POST(request: Request) {
 3. Keep the summary clear and concise
 4. Preserve any important statistics or specific data points
 5. Structure the summary in a logical flow
-6. Start the summary with a brief fact to grab the listener's attention you know 
+6. Start the summary with a brief fact to grab the listener's attention 
 
 The original article is ${wordCount} words long. Create a summary that's engaging and easy to understand while staying within the target length.
 
